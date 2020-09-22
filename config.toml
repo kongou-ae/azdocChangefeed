@@ -5,6 +5,7 @@ languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+relativeURLs = true
 
 [params]
   description = "Change history of Azure docs"
