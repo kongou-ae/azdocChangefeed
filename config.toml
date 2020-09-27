@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://azdochistory.aimless.jp/"
 title = "Change history of Azure docs"
 theme = "etch"
 languageCode = "en-US"
