@@ -13,7 +13,6 @@ relativeURLs = true
   dark = "auto"
   highlight = true
 
-
 [outputs]
 home = [ "HTML", "RSS" ]
 

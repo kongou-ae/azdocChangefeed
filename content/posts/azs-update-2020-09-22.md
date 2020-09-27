@@ -2,7 +2,7 @@
 title: Update at 2020-09-22
 date: 2020-09-22
 draft: false
-tags: 
+categories: 
 - azurestack
 ---
 
