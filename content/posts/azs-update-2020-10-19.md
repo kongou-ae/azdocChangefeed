@@ -1,0 +1,38 @@
+---
+title: Azure Stack Update at 2020-10-19
+date: 2020-10-19
+draft: false
+tags: [
+]
+---
+
+### hci
+- [azure-stack/hci/concepts/plan-host-networking.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-e74fa869cf5880aaeecefe6954c47b6c291f58ed593d56e100f3e88e68730b3a) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/plan-host-networking?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/concepts/plan-software-defined-networking-infrastructure.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-bad16f21dc0c18dcd1a3827aefb839efd45721208845225b8fc9d0a98e672815) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/plan-software-defined-networking-infrastructure?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/concepts/software-defined-networking.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-c6927bf3189bedf874e5ccc022bb79c07a5f97d364609af10ab64ba6eeabd740) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/deploy/create-cluster.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-2ecf308c634813758aecc17770ff275ec7c20bad184782c9d1818b31f08c0738) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/create-cluster?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/deploy/network-controller-powershell.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-fc2dc549213929c8ac01cc1dcb50ef6df04557c0c53837ad930d3e4fa415f985) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/network-controller-powershell?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/deploy/validate.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-cd41d6b5b9b6732f9e5694e120df6045b5a6f7a21e04bdca903e9263fb8d2692) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/validate?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/use-csv-cache.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-3ecaad2156440a57435f0799955c7ceaba9d277b1b42a78748e9c1935d626bd9) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/use-csv-cache?WT.mc_id=AZ-MVP-5003408))
+    
+### mdc
+- [azure-stack/mdc/azure-stack-capacity-planner.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-712637669c3997095c142afeb945500fb5b68311006da102211176de38dd70ac) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/azure-stack-capacity-planner?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/azure-stack-capacity-planning-overview.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-0942ed5a52165e303ebee9e063644e68ec68a847d4686667de908f0f19b50b1d) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/azure-stack-capacity-planning-overview?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/azure-stack-gpu.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-10e5d7156c3c05049f68ed836406defec85b97cc6f0a631cb34e97c0ad235ff3) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/azure-stack-gpu?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/azure-stack-vm-considerations.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-e068d10d0c52137ac25105a375ab0391ce4f76a776e8a3e650419bbc21bbf57b) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/azure-stack-vm-considerations?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/azure-stack-vm-sizes.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-2b44bc5e8ad36cf61bcd1667a7302af20414a6c104f2f2dccc6f421f31f0cbf9) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/azure-stack-vm-sizes?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/customer-journey.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-b1e64d73fef77e7f35a1e247765bffe1d9a4f52855abc2f118d38646bc223644) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/customer-journey?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/deployment-overview.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-af4b0f48b9c98c5090a296d1443884dd7dc8cf7f30cc64682cd7aa6bd8b42366) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/deployment-overview?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/extended-storage-firmware-updates.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-e05329b08dcaa80448cadf9cb91169edbc30084e45531285d7adeb4767313565) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/extended-storage-firmware-updates?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/extended-storage-health-checks.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-b0af194c4a3da4526f64c6f9e32f55190687667e37ca274c1ae6e4c2070132b5) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/extended-storage-health-checks?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/mdc-overview.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-e950b47d2c615dc2d078256dc13548d70cf03bfbfb0aeafe2df19c13808a2dbb) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/mdc-overview?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/network-appendix.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-92e2eef688bf5d5232ac117c72000901099f779a7616ab798dd40c3ceb551277) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/network-appendix?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/network-configuration-lifecycle-management.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-0bf8f3c5a2595cb89312e984d52e01bab9fbc03f4745d70006943cebbfc21300) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/network-configuration-lifecycle-management?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/network-deployment.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-27fdfa007e2bb41b073dac23694e6e029b7a42f005bffb908164431cfce11248) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/network-deployment?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/network-integration.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-86beef5dd8c54af676a0a3a190a9b13541f3035d6b50ff26c5d89004d01870b6) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/network-integration?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/mdc/network-introduction.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-17b3cdd0439a47af3ad695dcd9a7c59f3c13542a97d11ed1cbdfeb806b734961) ([To docs](https://docs.microsoft.com/en-us/azure-stack/mdc/network-introduction?WT.mc_id=AZ-MVP-5003408))
+    
+### operator
+- [azure-stack/operator/azure-stack-manage-storage-infrastructure.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-47fc8d61335f830c05b8a00d537e09722ac5a020d986a4a8a3cd6ececa4b478d) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-manage-storage-infrastructure?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/release-notes.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5272a72..d9e77b6#diff-2135bea1e8ba86ced8f1132666bad8511311d8b2daf186e8f7bcee06513e1035) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/release-notes?WT.mc_id=AZ-MVP-5003408))
+    
