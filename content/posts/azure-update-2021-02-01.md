@@ -1,0 +1,168 @@
+---
+title: Azure Update at 2021-02-01
+date: 2021-02-01
+draft: false
+tags: [
+]
+---
+
+### active-directory
+- [articles/active-directory/authentication/howto-authentication-use-email-signin.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-5b85f3b548a89225940f57e1a9506b23f066494d95728fcb98bf2150f93d3fec) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-use-email-signin?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/authentication/howto-password-smart-lockout.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-e8fcfc24fd71803be9d38730867039845f68ca93fb83fe9b42b6fd3599cdddea) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-password-smart-lockout?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/msal-national-cloud.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-dc5d5854d03b1a7d33cba0ac4621ec3f1315625546a3e08cf37933e1d23aca9d) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-national-cloud?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/quickstart-v2-angular.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ded2702157d83389a7fdb1e0f543243fbb0b16a7cb63dcb1670beb50f2c36808) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-angular?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/quickstart-v2-aspnet-core-webapp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-a1dba2e521c36f5876a5035bc40f89fdacfdb12d8761c0b6b0477bf94eaebe7f) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-aspnet-core-webapp?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/quickstart-v2-aspnet-webapp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-f2a5fde81885e98367c9e7822ec47da594645dd49717db7f61ce72089cf1d79b) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-aspnet-webapp?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/quickstart-v2-javascript.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-d7e05a8d0bb81f6f643a26161d4779d88301f616123db71f305208f68a67cacc) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-javascript?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/quickstart-v2-nodejs-webapp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c5fdeea12d551c8447cc1b0b2a3287c164f1ae5bd97d4fdf6283b9c413614293) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-nodejs-webapp?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/scenario-desktop-production.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-92ef03cd4ec23e73d22ffbd8b972e1634df0fbd63ad1b1e8a7c213b5c57d7888) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-desktop-production?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/scenario-spa-app-registration.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-d249ca683cb1df78a640c1c5fe25d0dfd06dec8f9c5977982daa52eafc07f5bf) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-spa-app-registration?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/tutorial-blazor-server.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-14bc2d9d547e7a63b5ffd3d24942c6d6ec3db0266b6717cb8e490e85da95b5ef) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-blazor-server?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/tutorial-blazor-webassembly.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-b90921e6eeeeefba4b3e3371e8c2911592c593d3e22b830a456816d609fd9037) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-blazor-webassembly?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/tutorial-v2-asp-webapp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-108c272adbb22498afaf3a3f3fb2da5e69e7bf0e01fac06d946f5ea6a4e7c7a2) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-asp-webapp?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/tutorial-v2-aspnet-daemon-web-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-0e32dc83e551a9c23419250ad02e5931838579621cb083cfa54a961d153d08fd) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-aspnet-daemon-web-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/tutorial-v2-javascript-spa.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c8e451ec8429ff9b13e7761340068a175a20762460882f26169a4e1afeec50cb) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-spa?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/v2-howto-get-appsource-certified.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-a656b0ee63bd0554ff1b9820f6de67850c09f16559e71cc301c2affc9bd4f875) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-howto-get-appsource-certified?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/v2-oauth2-implicit-grant-flow.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-dd8c71eba1e66bfa00f2be8a850c57a2dc8334de78c86926388082b8097f27dc) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-implicit-grant-flow?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/develop/whats-new-docs.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-2bd6a3656080469d96dc553877cd70c4c1c3146bacf20c6dfe26a4d49c0fd0b7) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/develop/whats-new-docs?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/fundamentals/resilience-client-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-9f667cdd33679f38aeb1422c1e35eff89f206da707a79bf5485553485bf8adad) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/resilience-client-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/governance/entitlement-management-access-package-resources.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-53df050cbedfbd3c1062a8422c0d13ac7462486a717082f17a2f6f1ecb31300b) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-resources?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/manage-apps/application-proxy-add-on-premises-application.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-bb782a0b66cdebc7f6e98545f673d67f519ebf498443e83cc5472dce98b36174) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-add-on-premises-application?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/manage-apps/manage-app-consent-policies.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-a0293ff6a4770e29a0da9ddb0d837d68eb0b75635e3bc63efb202c81f3a2581e) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/manage-app-consent-policies?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/saas-apps/maptician-tutorial.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-a51ee0092e28a9523537f9492d4326374ebc59e84064991cf6e7c5f775a28f50) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/maptician-tutorial?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory/user-help/user-help-auth-app-faq.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-1f5532c31accae844c3fa73182fa453c3c39d3066a14e90cb510a025e88753b7) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-faq?WT.mc_id=AZ-MVP-5003408))
+    
+### active-directory-b2c
+- [articles/active-directory-b2c/billing.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-6d28a9e4c9edb01ac2f28547019cf772d49a22f7af9c11881c2e7bc3c06c3069) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/billing?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/multi-factor-authentication.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-d123845b42c3af4a696e4a40cd8e5026245cd57b46fc8cb23bc0666c84ed7eb9) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/multi-factor-authentication?WT.mc_id=AZ-MVP-5003408))
+    
+### active-directory-domain-services
+- [articles/active-directory-domain-services/tutorial-configure-ldaps.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-65fc27e3368de0846821c63ea9c0b82dd8776f4fddd184065218a75050d513cd) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-configure-ldaps?WT.mc_id=AZ-MVP-5003408))
+    
+### aks
+- [articles/aks/howto-deploy-java-liberty-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-0a77e396726a9ace3fcb001f17d70661697a700aceb34e5cbdf4f4a4b88fcf04) ([To docs](https://docs.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app?WT.mc_id=AZ-MVP-5003408))
+    
+### app-service
+- [articles/app-service/configure-domain-traffic-manager.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-66d0effecb248db96d85f842ef4461e02d117e94fe20321914e60f8b7cba5343) ([To docs](https://docs.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager?WT.mc_id=AZ-MVP-5003408))
+- [articles/app-service/environment/app-service-app-service-environment-custom-settings.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-bf1fe13dd60be535321ef3606121e215ab5d1146e775cb514307c7a145fdf6c0) ([To docs](https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-custom-settings?WT.mc_id=AZ-MVP-5003408))
+    
+### availability-zones
+- [articles/availability-zones/az-region.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-feec3fb93df17c50177624d8831802fb8faf388ea3536594fa3fd2595b8e0320) ([To docs](https://docs.microsoft.com/en-us/azure/availability-zones/az-region?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-app-configuration
+- [articles/azure-app-configuration/faq.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-99fbbe4bc14797088b9e2f773e7b9c9f662dd5c6ee5ca8cdfba79060a03c4d04) ([To docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/faq?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-monitor
+- [articles/azure-monitor/platform/data-sources-event-tracing-windows.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ac4f3c6bb100e5eabc248a7f6bb2701fbba8aa7d43e44ef5255d338c48a68ece) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-event-tracing-windows?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-monitor/platform/itsmc-connections-servicenow.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8e5ea22ea7646a48460daf0a6655aeef9f1f533b7fd95c67279376ff10ea109d) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/itsmc-connections-servicenow?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-sql
+- [articles/azure-sql/database/transparent-data-encryption-byok-overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-4693f51d3e24b9d3f86ae60673bac45b3f3ca0a08394279a50ad3f789160e205) ([To docs](https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-overview?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-sql/managed-instance/frequently-asked-questions-faq.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-af0dff2ab0bea31082b0e8aec3825219f583da81fb497ab791056e0f548884a6) ([To docs](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/frequently-asked-questions-faq?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-sql/managed-instance/replication-transactional-overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-cbbf8725e1a5ab45555fbbcc3abdc32a2e38d2845fbfb2ba5b836dee5f92b342) ([To docs](https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/replication-transactional-overview?WT.mc_id=AZ-MVP-5003408))
+    
+### backup
+- [articles/backup/backup-azure-vms-encryption.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-866ecf92d5ed4211a70c4f44cc30cb95bf5c2099b95ad5290b9d6e34fe120b91) ([To docs](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-encryption?WT.mc_id=AZ-MVP-5003408))
+- [articles/backup/disk-backup-support-matrix.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-37ac47ab73d95b46ec72a5e99f831581c984486005610e53e4637e0c623bab00) ([To docs](https://docs.microsoft.com/en-us/azure/backup/disk-backup-support-matrix?WT.mc_id=AZ-MVP-5003408))
+- [articles/backup/guidance-best-practices.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-6752b6dba25e328f1ae2a3ff8d6d8394379edf07267044a7713a6729177fb353) ([To docs](https://docs.microsoft.com/en-us/azure/backup/guidance-best-practices?WT.mc_id=AZ-MVP-5003408))
+    
+### cloud-services-extended-support
+- [articles/cloud-services-extended-support/deploy-powershell.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-bf24afa03059868749520146f867d345caf7bffff83ea4bac254fa3847ec73e5) ([To docs](https://docs.microsoft.com/en-us/azure/cloud-services-extended-support/deploy-powershell?WT.mc_id=AZ-MVP-5003408))
+    
+### cognitive-services
+- [articles/cognitive-services/Computer-vision/spatial-analysis-operations.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-69c4b4dd93ff8379d7f91b868facd51182a8611c9fbe9f18d6d980a078d4b4ad) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/spatial-analysis-operations?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/QnAMaker/Concepts/plan.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c186fcb9da068018c489f726b0dfb5f1ddc3c2674e26952407cae98bd7d71f41) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/Concepts/plan?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/faq-stt.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-53cf8af958396ef8c7f45e4de4ba9ffb866f5978852f400619bce2657592b250) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/faq-stt?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-cpp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-f6cb483bed190a4cebace290248afb47a852c5fe1db60bacf669fb5991d5335c) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-cpp?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-csharp.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c5e039ae6c51f7a774c51f0fa41d331d1bb35d3e55cf85ba8c7c02f8d6c8cbda) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-csharp?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-java.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-f7985f510529b58ccb98c507dc71f446f8a1527be6a8955e82a562d74618110d) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-java?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-python.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-197df0abbce524fcada7eaf30a89b66fd385ee745ccf5609d2039aafa24c6891) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/includes/how-to/speech-translation-basics/speech-translation-basics-python?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Speech-Service/speech-container-faq.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-fc0ac26a9a8edd9ad62905ec3b5c0c0ace28451734317e620c661ca75e85f62d) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/speech-container-faq?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/text-analytics/concepts/model-versioning.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ae32dc680cdcadbcc5d827af95dbe45d0bd89948aad2619c80c2f1b49db1a11e) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/concepts/model-versioning?WT.mc_id=AZ-MVP-5003408))
+    
+### databox-online
+- [articles/databox-online/azure-stack-edge-2101-release-notes.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-771bbfc4ce0959a7058d1e25328a3de460bdd1499f433bdd6e9ce9e7b19fd5f1) ([To docs](https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-2101-release-notes?WT.mc_id=AZ-MVP-5003408))
+    
+### data-factory
+- [articles/data-factory/concepts-data-flow-performance.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ae7d3d934bdb248888f3a00e156d6d8bf3568dc5c3a46c641d3ad055b7066fd9) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/connector-azure-cosmos-db.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-45c8bab2457a4cceda33239f2c54e7d1e269039ba28e338cbf68cf75b46cf153) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-cosmos-db?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/connector-azure-database-for-postgresql.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-62a3e5f21eb0ee1ee155a442dc2e47cfb6df8a1a12d03bfff8c724b33b98a26d) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-database-for-postgresql?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/connector-azure-sql-data-warehouse.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-e5d1422623780f765d30b69b9b49bcbab86f0585a14e7e0b610fafbf09059850) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/connector-dynamics-crm-office-365.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-e263caf2f5a903435a8ec187eed851b15fdf0753c220f491fec0d8208d118edd) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/connector-dynamics-crm-office-365?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/connector-rest.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-06b04135804eb9296930fc568c18bf7039c17476870e2a125b069d1dc8cb6ffa) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/connector-rest?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/data-flow-troubleshoot-guide.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8da16d3c9cad5c1a21e246ce4566a89f53a67f6b1feed087e764196f24fdd2b8) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/data-flow-troubleshoot-guide?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/load-azure-sql-data-warehouse.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8e6a8df0789cf009b67ed60eb23836219058699b2bb768f8fe7ff461cbf2d96b) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse?WT.mc_id=AZ-MVP-5003408))
+- [articles/data-factory/tutorial-bulk-copy-portal.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8a88977fe462b42a31e30738328e5653431b375f04df46b2aa1693cd8d53fe56) ([To docs](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-bulk-copy-portal?WT.mc_id=AZ-MVP-5003408))
+    
+### defender-for-iot
+- [articles/defender-for-iot/references-defender-for-iot-glossary.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-6dcfa0e20bd12c6f487c14accade3a090f04c58bd5bbd4be4f3f306092288921) ([To docs](https://docs.microsoft.com/en-us/azure/defender-for-iot/references-defender-for-iot-glossary?WT.mc_id=AZ-MVP-5003408))
+- [articles/defender-for-iot/references-work-with-defender-for-iot-apis.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-f08c04218826ce314c24c3756cef444755b9c70bbb282acda869ef1be0b4b399) ([To docs](https://docs.microsoft.com/en-us/azure/defender-for-iot/references-work-with-defender-for-iot-apis?WT.mc_id=AZ-MVP-5003408))
+    
+### event-hubs
+- [articles/event-hubs/event-hubs-geo-dr.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-0728c17fc1347e53046391ad3106aab9534d64957e2638cc80e7d0e012a03102) ([To docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr?WT.mc_id=AZ-MVP-5003408))
+    
+### expressroute
+- [articles/expressroute/expressroute-howto-set-global-reach-cli.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8fe488f8466079bfbe19227427be9e4d7bd6dd1d98876a0daeac80d511f309a3) ([To docs](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-set-global-reach-cli?WT.mc_id=AZ-MVP-5003408))
+- [articles/expressroute/expressroute-locations.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c43bf70dd09b03e318ca232ea7af9689cf22ab9fede4ef958bc7bdaf1e7c669d) ([To docs](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations?WT.mc_id=AZ-MVP-5003408))
+    
+### governance
+- [articles/active-directory/governance/entitlement-management-access-package-resources.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-53df050cbedfbd3c1062a8422c0d13ac7462486a717082f17a2f6f1ecb31300b) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-resources?WT.mc_id=AZ-MVP-5003408))
+- [articles/governance/blueprints/samples/index.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-6457ce09438f86122cac0e4816763fbafb3937c5f2e1b5cf5728c91e1d9638c9) ([To docs](https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/index?WT.mc_id=AZ-MVP-5003408))
+- [articles/governance/blueprints/samples/iso-27001-2013.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-8df17355789fe323501ff535145d107001e0dd73f1586c380d443231b747da8b) ([To docs](https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/iso-27001-2013?WT.mc_id=AZ-MVP-5003408))
+- [articles/governance/policy/how-to/guest-configuration-create-linux.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-46b26b8b494218cde710f2372b540fda97134b60557504fc49865f115b1c3c8b) ([To docs](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/guest-configuration-create-linux?WT.mc_id=AZ-MVP-5003408))
+- [articles/governance/policy/samples/iso-27001.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-7018f5bfe08eb9f336e281511c054a876cdae1b403165dfef1ab8b78d8c95bea) ([To docs](https://docs.microsoft.com/en-us/azure/governance/policy/samples/iso-27001?WT.mc_id=AZ-MVP-5003408))
+    
+### iot-central
+- [articles/iot-central/core/howto-export-data.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ea160ccf1ccc27d6dd6ea0ab67efb529f56b6237af63b811b01fe2b81e7ac6d2) ([To docs](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-export-data?WT.mc_id=AZ-MVP-5003408))
+    
+### key-vault
+- [articles/key-vault/keys/hsm-protected-keys-byok.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-760ac18c89680f29346e53a315abc2fbae9a4ec228e2d3dd308e5466dd776887) ([To docs](https://docs.microsoft.com/en-us/azure/key-vault/keys/hsm-protected-keys-byok?WT.mc_id=AZ-MVP-5003408))
+- [articles/key-vault/keys/hsm-protected-keys.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-de285386ad9cff02fabe3c2e4bb14613bfa597d54162b207b40687f63d1effc1) ([To docs](https://docs.microsoft.com/en-us/azure/key-vault/keys/hsm-protected-keys?WT.mc_id=AZ-MVP-5003408))
+- [articles/key-vault/managed-hsm/hsm-protected-keys-byok.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-c8299277f509b6a74d340be72986291ab497f653c42671e0b3511e38b5d6a959) ([To docs](https://docs.microsoft.com/en-us/azure/key-vault/managed-hsm/hsm-protected-keys-byok?WT.mc_id=AZ-MVP-5003408))
+    
+### network-watcher
+- [articles/network-watcher/network-watcher-packet-capture-manage-powershell.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-3158b948568e17cebb4044b5ae0a7857a3ffa1b14f6cae00efadfd11cf6a1bca) ([To docs](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-powershell?WT.mc_id=AZ-MVP-5003408))
+    
+### postgresql
+- [articles/postgresql/concepts-hyperscale-audit.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-789476410962ddffc05ae8eaa984d9aaa0770516033ea50f0c0e334da0c5f57b) ([To docs](https://docs.microsoft.com/en-us/azure/postgresql/concepts-hyperscale-audit?WT.mc_id=AZ-MVP-5003408))
+    
+### resource-mover
+- [articles/resource-mover/common-questions.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-469ffa21e4d808565b60740d31a82a31eb0f1dd00a2c4c1598622e92e76eba09) ([To docs](https://docs.microsoft.com/en-us/azure/resource-mover/common-questions?WT.mc_id=AZ-MVP-5003408))
+- [articles/resource-mover/support-matrix-move-region-azure-vm.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-da81e05aeb95dcbf4af7a4c88e996fd950bbe6604852ffec41224bf5f4790e9d) ([To docs](https://docs.microsoft.com/en-us/azure/resource-mover/support-matrix-move-region-azure-vm?WT.mc_id=AZ-MVP-5003408))
+    
+### search
+- [articles/search/search-blob-ai-integration.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-fa4801ecbd6a2bb6906c73e44f65f9369fa97a19353f9d18a9a02ecdbfb2df0f) ([To docs](https://docs.microsoft.com/en-us/azure/search/search-blob-ai-integration?WT.mc_id=AZ-MVP-5003408))
+    
+### security-center
+- [articles/security-center/kubernetes-workload-protections.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-3701fa89516d33ab3fea2a7628ddbc248ff0bcba2426108a498c8d8849a1b408) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/kubernetes-workload-protections?WT.mc_id=AZ-MVP-5003408))
+- [articles/security-center/upcoming-changes.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-29090c5dc5c944cf615be649f007f7151e722203d731c3c21e23b622586c4488) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/upcoming-changes?WT.mc_id=AZ-MVP-5003408))
+    
+### spring-cloud
+- [articles/spring-cloud/spring-cloud-howto-staging-environment.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-1bea61192724ea2c74554b7e419b636a14127300111412d3c8791c768e31fc52) ([To docs](https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-howto-staging-environment?WT.mc_id=AZ-MVP-5003408))
+- [articles/spring-cloud/spring-cloud-quickstart.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-9516937bc69d40f715ac194fe1dad7255025d6b88c28abda2208e6a84d03a303) ([To docs](https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-quickstart?WT.mc_id=AZ-MVP-5003408))
+    
+### storage
+- [articles/storage/blobs/data-lake-storage-query-acceleration-how-to.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-720831bc3e5c06b11e2c1805d199482a53dc8175391f4ba1494f573420080e26) ([To docs](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-query-acceleration-how-to?WT.mc_id=AZ-MVP-5003408))
+- [articles/storage/files/storage-sync-files-deployment-guide.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-10b0d3c00fdf23923eeacedbac740ad39cb812b25cc00ad023d0d645a55c0029) ([To docs](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?WT.mc_id=AZ-MVP-5003408))
+- [articles/storage/files/understanding-billing.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-753dc76a20639b9c8527870f932bf89fda982385c5bfb13dd019d4cd12a664dc) ([To docs](https://docs.microsoft.com/en-us/azure/storage/files/understanding-billing?WT.mc_id=AZ-MVP-5003408))
+    
+### synapse-analytics
+- [articles/synapse-analytics/security/synapse-workspace-ip-firewall.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-2c8ba8cfcd8660c6710173aa474504a4ad50c1adbf8a9e2ef40a33901b8095fe) ([To docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-ip-firewall?WT.mc_id=AZ-MVP-5003408))
+- [articles/synapse-analytics/security/synapse-workspace-synapse-rbac-roles.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-7df5b5c1dbd725cb8ec4a447fdd1b58a7b3de9c5c5a5aeddaf81ed6b23c8a60a) ([To docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-synapse-rbac-roles?WT.mc_id=AZ-MVP-5003408))
+- [articles/synapse-analytics/sql/develop-openrowset.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-83cfd30412cfdcd84ce6126491e624286fab62349f45657354dc0e1ce4068065) ([To docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset?WT.mc_id=AZ-MVP-5003408))
+- [articles/synapse-analytics/sql/get-started-azure-data-studio.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-9898435dc4cdcf8f326e21a0812d361342d12793bf4de292570f3439bd81a561) ([To docs](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-azure-data-studio?WT.mc_id=AZ-MVP-5003408))
+    
+### virtual-desktop
+- [articles/virtual-desktop/fslogix-containers-azure-files.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-d5a35e51437ea9fb89cfc75afa8ecce76a51763ec1d26ec116fd5e9edeeff182) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files?WT.mc_id=AZ-MVP-5003408))
+- [articles/virtual-desktop/whats-new.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-9f69d8ccad111fa07cbcd8495445c59df0872c330199e3e90c7efdadb4fbe67a) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new?WT.mc_id=AZ-MVP-5003408))
+    
+### virtual-machines
+- [articles/virtual-machines/extensions/custom-script-windows.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-3557b3f547274ff3f0efe36785d50f79bb420c6b7dbc0e5bc50d5799cbab15aa) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows?WT.mc_id=AZ-MVP-5003408))
+- [articles/virtual-machines/linux/no-agent.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-e2c3f6fd761c2ff95bd845967287ca97a94a45edb47ba05c889d768d582de725) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/no-agent?WT.mc_id=AZ-MVP-5003408))
+- [articles/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-ea8a5ca9097cd1337b3b370f63143cc8ef16bd1d1bc2bb995db11e5db1bf5dfc) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell?WT.mc_id=AZ-MVP-5003408))
+- [articles/virtual-machines/workloads/sap/hana-overview-architecture.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-9b430dcb6759c0864b8845cccf833b2934450f9adce7ec0c5ccff8d81f33556f) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-overview-architecture?WT.mc_id=AZ-MVP-5003408))
+    
+### virtual-network
+- [articles/virtual-network/virtual-network-bandwidth-testing.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-4be1cc1ac6bead3838db3fdbd3a00b2bcd8aaae63d0f45b0d67dbd477f27f6e2) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing?WT.mc_id=AZ-MVP-5003408))
+- [articles/virtual-network/virtual-network-test-latency.md](https://github.com/MicrosoftDocs/azure-docs/compare/61c2eb2..43228e4#diff-e9e10dc52c4658bae4371cbe0d957360b7800f1e4ebf4187ce824a0f53d09c6e) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-test-latency?WT.mc_id=AZ-MVP-5003408))
+    
