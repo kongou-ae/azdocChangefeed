@@ -1,0 +1,47 @@
+---
+title: Azure Stack Update at 2021-05-19
+date: 2021-05-19
+draft: false
+tags: [
+]
+---
+
+### aks-hci
+- [azure-stack/aks-hci/disable-akshciarcconnection.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-b849b3d3549a74eee71a11630a57f6fa6c1b2cddc922eb802299302b47e5d652) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/disable-akshciarcconnection?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/enable-akshciarcconnection.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-0f20c91cb2594a842ede10228e729fae5feb12544f9c519662a22ff63cfe3682) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/enable-akshciarcconnection?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/new-akshciproxysetting.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-0cf1f800012adb27b0420ee8bbf277166e3fbc4aebd9b0ba6e3426498b01e8c2) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/new-akshciproxysetting?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/set-akshciregistration.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-b8c23dac45df735f1c82242dc70ce95edb039bcf6307640436e9b371272a5a41) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/set-akshciregistration?WT.mc_id=AZ-MVP-5003408))
+    
+### asdk
+- [azure-stack/asdk/asdk-post-deploy.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-b2ca6282891447b2714e289ac138011aab963e3339d3f7e38bec36f6bf083fa3) ([To docs](https://docs.microsoft.com/en-us/azure-stack/asdk/asdk-post-deploy?WT.mc_id=AZ-MVP-5003408))
+    
+### hci
+- [azure-stack/hci/concepts/deploy-persistent-memory.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-20073611f86e6604f5f9cd827cdd039680ef2be67b28c4ec3539efb4db7d88f0) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/deploy-persistent-memory?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/azure-monitor.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-54cba2fd2fa2a5b7521e2ef3645b73b2f9e3ce7cafd568784a47685ae2eb6fd7) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/azure-monitor?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/sdn-express.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-bffc5c1b19e33733a963ccf62006aad1a7f695ed91e994d79733b6badcb494c5) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/sdn-express?WT.mc_id=AZ-MVP-5003408))
+    
+### operator
+- [azure-stack/operator/azure-stack-powershell-install.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-e17f0e5be091f38798d1d7fc36d5e4fcf0cf696c815b15f6176becd28a87bbfb) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-powershell-install?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/azure-stack-validate-identity.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-81bf12f263d09d3323613dde6462a200dc3ea1a59afdffc3171b579b7e3ad4df) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-validate-identity?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/azure-stack-validate-registration.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-1bf9b513092cfb3d263e274aea0753be8f6dd57dff5bd7f4af37d0dd21526152) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/azure-stack-validate-registration?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/diagnostic-log-collection.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-0b568405ca10ea58e3db1e97610604832da9b8ac34ba87f3005f1596974236ef) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/diagnostic-log-collection?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/enable-multitenancy.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-faf02ddc3a23a4dfea40335b39d9317b5c4cf80ca9c1c86532116078b0505adb) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/enable-multitenancy?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/known-issues.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-cb06cf349d7c5acaddcca900d95b98b309283d56f1ec4f41df6a6a5f2bf3a79c) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/known-issues?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/powershell-install-az-module.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-30850e7d5f4d10e14e37ab1d18daa6f030b59777fa195d031c5297a98065c28a) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/powershell-install-az-module?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/release-notes.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-2135bea1e8ba86ced8f1132666bad8511311d8b2daf186e8f7bcee06513e1035) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/release-notes?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/relnotearchive/known-issues.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-9c7b0bc3fdd5009cecc883ea142686393ddf5180803c494e60be7573a5b8ce2a) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/relnotearchive/known-issues?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/operator/relnotearchive/release-notes.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-cbdbebf6b6aa2e6fa42dea4aafb46cef6e210d7aed22ef62d604f71662f555ca) ([To docs](https://docs.microsoft.com/en-us/azure-stack/operator/relnotearchive/release-notes?WT.mc_id=AZ-MVP-5003408))
+    
+### user
+- [azure-stack/user/azure-stack-profiles-azure-resource-manager-versions.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-caf3bea9141bd91fc823b62896cf789bdcbf6a57d3b9056d612d23f9b78088f1) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-profiles-azure-resource-manager-versions?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-resource-manager-deploy-template-vscode.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-64ddd24874f9d4e379471135df7f8e8023176f6f0f65d2d415668cb690fbc27c) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-resource-manager-deploy-template-vscode?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profile-nodejs.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-962ffff5cf266558d0ace2999774b78bcc8e02cd01543f8620743a10de3d03dc) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profile-nodejs?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-azurecli2.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-ee81394dca580c5ab45b1e9ad85b8c8ddde59cab42b28038a027acd21a4392fa) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-azurecli2?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-go.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-7f403756ef656815ac66100e1dcfffc436d1e8883a25fd8d6e8eddf814c3644d) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-go?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-java.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-a3a55e194d54bbab21dc8148a835d1c8bf0da82f536facf1d274c45d98ebdb90) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-java?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-net.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-b44d5035a50622c3dd84bf2a9cd35bf3799952041802054c4fa796a79abb92cb) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-net?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-python.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-380449dcaab63b1d47c9315e1bb14154d75faa244d7a680bf320c1dbecb0b470) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-python?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/azure-stack-version-profiles-ruby.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-2878a776d7be5804527e880517e782760de77bf3a92cc5599f5d98eb064f08c5) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-version-profiles-ruby?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/ci-cd-github-action-login-cli.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-714fe1b2b4300c8faf67800a0895ceabcf871c1774a7dfa33a8cf812b832f1cd) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/ci-cd-github-action-login-cli?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/user/ci-cd-github-action-webapp.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/5aea61f..eb1676e#diff-5dd3935f7c707a13ce895c0cb8fdcb23006b8eed5e82407fabee1c9e1d16d735) ([To docs](https://docs.microsoft.com/en-us/azure-stack/user/ci-cd-github-action-webapp?WT.mc_id=AZ-MVP-5003408))
+    
