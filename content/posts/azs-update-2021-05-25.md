@@ -1,0 +1,40 @@
+---
+title: Azure Stack Update at 2021-05-25
+date: 2021-05-25
+draft: false
+tags: [
+]
+---
+
+### aks-hci
+- [azure-stack/aks-hci/ad-sso.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-5e9e11f4b728ddf21be71cd17214069a53e0f86e86e102fbac474af0163bd72e) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/ad-sso?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/adapt-apps-mixed-os-clusters.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-41c7bfd93c053cebc5954c737b3600bee7ec1b2f3cce38304917c3a220600c43) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/adapt-apps-mixed-os-clusters?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/akshci.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-cd1a56a03e648223e23ddc0ae62e5c841d6d149dd53238f6059d131558ffefc4) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/akshci?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/concepts-support.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-639ea865f248d32f57c466695027b47f76efc2a9f5da75f8e1ae3f2a6cae4152) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/concepts-support?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/create-kubernetes-cluster.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-0df5e60c977e0c8ce0e5378668e5ad333b7181707187b40e8a54a48f3d26802d) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/create-kubernetes-cluster?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/disable-akshciarcconnection.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-b849b3d3549a74eee71a11630a57f6fa6c1b2cddc922eb802299302b47e5d652) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/disable-akshciarcconnection?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/enable-akshciarcconnection.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-0f20c91cb2594a842ede10228e729fae5feb12544f9c519662a22ff63cfe3682) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/enable-akshciarcconnection?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/kubernetes-walkthrough-powershell.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-eba8a2a9e2a4988628778e1e03b08cf6c3fedd14541926c70e5ec527a659f979) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/kubernetes-walkthrough-powershell?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/new-akshcinetworksetting.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-375fe40684ce54fea93a0b465894579447b36a98e2a1c279bac27138895480bb) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/new-akshcinetworksetting?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/overview.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-1f5cbdd32969a5fad4a7dff44593ba234e2900ee4bfeb954448829ffc5218c3f) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/overview?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/pricing.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-ffbe4bc7b3bf08a07f37261c67ce3b26086d729774a8b5dfb7b20f1b1f114bf3) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/pricing?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/setup.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-13a99e57de471487c039a05963b12d183009416cc62ef6d7c9584276500b6825) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/setup?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/system-requirements.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-ba50499be817eb2123215138e8a48b68f2b28a008832befc2c79d07d2e31e1c4) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/system-requirements?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/tutorial-kubernetes-deploy-cluster.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-59d8c80fc8943a9ffb56afa71a8209d8ec22c235c755d03358ab90ca924b6554) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/tutorial-kubernetes-deploy-cluster?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/update-aks-hci-concepts.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-4e3b0fdddcc12720a619505ffa92d50ca3eac8351c542dc1af1e2fcf592a8e31) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/update-aks-hci-concepts?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/aks-hci/upgrade.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-6e5bfcaf372bfdc3c5060628cbcc0c0abe057e01e35a6bce0f7431018d5dd4d8) ([To docs](https://docs.microsoft.com/en-us/azure-stack/aks-hci/upgrade?WT.mc_id=AZ-MVP-5003408))
+    
+### hci
+- [azure-stack/hci/concepts/host-network-requirements.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-09180cb567361735e35fe45b9edfa9c74df05e672ee2565ca20eea17e0d67472) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/host-network-requirements?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/deploy/network-atc.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-2f167b73c78c55843c53c5231700ae64756c40f26b2e8c5088f57c0537919724) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/network-atc?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/deploy/register-with-azure.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-a3683a070950df904508f9b7a77e35a87a75980f569dc27728c36e0a34157016) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/deploy/register-with-azure?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/azure-stack-hci-insights.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-d35367e0bf26f1766cee7becd4c18869487ddc7581556e7dd307dc199b91a4de) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/azure-stack-hci-insights?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/monitor-azure-portal.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-2c001b86727941cc0deac78e3de52d69fc3c6f4f5c09eecc308e745cd40ce572) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/monitor-azure-portal?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/preview-channel.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-41a372a2431b5b06caf5eb27ad4ea24f1fb9bcdb996cc1ac3bc43cc283798cc2) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/preview-channel?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/processor-compatibility-mode.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-41d71bf1a63269870b8e0002ee2be85e0f0e3aae83b29a09c785d0d02135fc69) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/processor-compatibility-mode?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/thin-provisioning.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-64c35cc8352cf8b149b12f7291c940294926de6d54ff8b0901203855f87d7178) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/thin-provisioning?WT.mc_id=AZ-MVP-5003408))
+- [azure-stack/hci/manage/use-gpu-with-clustered-vm.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-cca65cd519418e6604e596151c9350c523f29221a40df3947dcaf596de73f42d) ([To docs](https://docs.microsoft.com/en-us/azure-stack/hci/manage/use-gpu-with-clustered-vm?WT.mc_id=AZ-MVP-5003408))
+    
+### includes
+- [azure-stack/includes/app-service-hub-update-banner.md](https://github.com/MicrosoftDocs/azure-stack-docs/compare/0d0275d..ef2f620#diff-390f372afd1e2e28708e345f2c763502b1fc7dc6888e69a947d7a355f758323a) ([To docs](https://docs.microsoft.com/en-us/azure-stack/includes/app-service-hub-update-banner?WT.mc_id=AZ-MVP-5003408))
+    
