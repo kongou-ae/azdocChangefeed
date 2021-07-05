@@ -1,0 +1,90 @@
+---
+title: Azure Update at 2021-07-05
+date: 2021-07-05
+draft: false
+tags: [
+]
+---
+
+### active-directory-b2c
+- [articles/active-directory-b2c/configure-authentication-sample-android-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-f8f8ffb1192f277049916a66d727dd5d32cd7e7a5c03a3abf0314a97faa7f2d8) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-android-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/configure-authentication-sample-spa-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-d068d1de4ebeb009ba123dc09788de8dab8d46241b4592e6379865e187130110) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-spa-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/configure-authentication-sample-web-app-with-api.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-cd67c2bb18c48f478a981e72fd9ff69034350f16ad503a79256e22333ff75d87) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-web-app-with-api?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-android-app-options.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-ee5f633db20db4b15245e7bc644deb07518d4f1b5e1f88553a07b50157ef7334) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-android-app-options?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-android-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-8398236abadbcd12991fdebbc44890eee280b37a3d96f008013beef97cef0852) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-android-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-spa-app-options.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-d5c7a4593ca56c1923c28f23b5ed20647c21a1316802818791b5ae4b768bb024) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-spa-app-options?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-spa-app.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-b831a668c32e7e64b615d3522555887b73573cfe467cf97b09a3f72db7047c38) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-spa-app?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-web-app-with-api-options.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-6f62e733c6921d121e781dbda4b67b95c490eecb652575ee328af95f02c3e194) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-web-app-with-api-options?WT.mc_id=AZ-MVP-5003408))
+- [articles/active-directory-b2c/enable-authentication-web-application-options.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-ee047ed97a8bd8c2396bc1284bec5dbb2453d661b6ffb58f1d2586797a6517c3) ([To docs](https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-web-application-options?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-arc
+- [articles/azure-arc/kubernetes/custom-locations.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-d8351c23305b4198dd2913e31d09b5fa725857a26e0ff0e602933ea5bf61372c) ([To docs](https://docs.microsoft.com/en-us/azure/azure-arc/kubernetes/custom-locations?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-monitor
+- [articles/azure-monitor/app/annotations.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-9b92bf83360aa379cffc50780bc1cf7e2e4dea7792079a7bab984b0eb76af43f) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/app/annotations?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-monitor/logs/log-analytics-workspace-insights-overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-614d8a04f6cea566a690c2a336afc9d8df143efd786e460452d4028908566533) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-insights-overview?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-monitor/logs/logs-data-export.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-834eae563b56d5c0d4fb6776002ee8d9bde4783079d04089f016bba8ac424610) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/logs-data-export?WT.mc_id=AZ-MVP-5003408))
+- [articles/azure-monitor/logs/logs-dedicated-clusters.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-93c084e687ae6414a6573a0fb8fbaaac6c75641182302cb5ef2d754e494fc7d7) ([To docs](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-netapp-files
+- [articles/azure-netapp-files/azacsnap-cmd-ref-backup.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-db2a41e4a59519329a17c2c1fbd2f426111d222039c22b59d03b805660fd31c7) ([To docs](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azacsnap-cmd-ref-backup?WT.mc_id=AZ-MVP-5003408))
+    
+### azure-video-analyzer
+- [articles/azure-video-analyzer/video-analyzer-docs/analyze-live-video-custom-vision.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-c3d242fc246de3acb251f55c797f025e367d18b10337ebafbcbe67741dd758bf) ([To docs](https://docs.microsoft.com/en-us/azure/azure-video-analyzer/video-analyzer-docs/analyze-live-video-custom-vision?WT.mc_id=AZ-MVP-5003408))
+    
+### cognitive-services
+- [articles/cognitive-services/Anomaly-Detector/How-to/deploy-anomaly-detection-on-container-instances.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-9f7e818847823cc8d14c4f804f8b9838e2189534d434eac50ed44aa0958a781f) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/How-to/deploy-anomaly-detection-on-container-instances?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/How-to/deploy-anomaly-detection-on-iot-edge.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-79ff10fd38c4dbe66074112d234899fe5d585f49274c35934916dae3ba7e32b1) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/How-to/deploy-anomaly-detection-on-iot-edge?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/How-to/identify-anomalies.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-14b7d1c3cead858faeef71453fe8b0defb3cc5832bc3fabfd07ebb068bd2daa8) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/How-to/identify-anomalies?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/anomaly-detector-container-configuration.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-811c3e83f5bb2db225a59cd7b924e93a54e2cfc245945a65aee6af15bc506bdf) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/anomaly-detector-container-configuration?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/concepts/anomaly-detection-best-practices.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-89f9734bb78215058570022c999c0c8ebf6d39276c8cdd429b12d61c86e28ee6) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/concepts/anomaly-detection-best-practices?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/concepts/best-practices-multivariate.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-5978c2a26269787154fd5bd7ea2e9dce47dff7434a0a27f2137568ef13f0d4d2) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/concepts/best-practices-multivariate?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/concepts/multivariate-architecture.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-9deab310552c2a4759d35b49dd846af969cf74893902ecbc8ab54fb6da5c634d) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/concepts/multivariate-architecture?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/concepts/troubleshoot.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-374ad5fe394afedbe9000dad831312994273efc99b9ca9f90315186a26a979b6) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/concepts/troubleshoot?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/includes/mvad-data-schema.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-87b24b9d43cf75bfb70b1b0583ec82ae2fbed6c943a02a9e84d2def785ea34ca) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/includes/mvad-data-schema?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/overview-multivariate.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-c5f956c8dd39cd0c19e8bec4948296ffd932804e43803ab029a86c8625818a53) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/overview-multivariate?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-56c41777bd169fa940156b066fd72f093c72414a44ad81299ee1c3c5ff6abfe1) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/overview?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/quickstarts/client-libraries.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-a5bd13b6721c01cd9dde7fb7ae13670ede94dda79ba2dc1c76991708a0e17817) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/quickstarts/client-libraries?WT.mc_id=AZ-MVP-5003408))
+- [articles/cognitive-services/Anomaly-Detector/tutorials/batch-anomaly-detection-powerbi.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-948ad562435770511db68963e9259d67042da28af5a2a3ffacc138d396d814c4) ([To docs](https://docs.microsoft.com/en-us/azure/cognitive-services/Anomaly-Detector/tutorials/batch-anomaly-detection-powerbi?WT.mc_id=AZ-MVP-5003408))
+    
+### defender-for-iot
+- [articles/defender-for-iot/organizations/how-to-connect-sensor-by-proxy.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-3970a98c8cee90c453f68be1fa64617ed2b7c4969194c2707a2e9b2e1a32d8d5) ([To docs](https://docs.microsoft.com/en-us/azure/defender-for-iot/organizations/how-to-connect-sensor-by-proxy?WT.mc_id=AZ-MVP-5003408))
+    
+### event-hubs
+- [articles/event-hubs/add-custom-data-event.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-fb389a68f66c52a91ea7b538ee8a4f3414b5547d34d9f47d6beef44ae0315297) ([To docs](https://docs.microsoft.com/en-us/azure/event-hubs/add-custom-data-event?WT.mc_id=AZ-MVP-5003408))
+- [articles/event-hubs/event-hubs-capture-overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-5806fb4281204b0bd9e26703b5d827dc8f64513c611d1c6e7f8e0369a9984203) ([To docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview?WT.mc_id=AZ-MVP-5003408))
+- [articles/event-hubs/event-hubs-geo-dr.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-0728c17fc1347e53046391ad3106aab9534d64957e2638cc80e7d0e012a03102) ([To docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr?WT.mc_id=AZ-MVP-5003408))
+- [articles/event-hubs/event-hubs-node-get-started-send.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-6ef2e1b67f2f55dc82f4af2f1b5e84d005f2fafee9f574482bd92f44d4c2ce3d) ([To docs](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-node-get-started-send?WT.mc_id=AZ-MVP-5003408))
+    
+### hdinsight
+- [articles/hdinsight/spark/apache-spark-intellij-tool-plugin.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-7188670836785b61e9e7734f3fbfac693117cb5167a7605f2afe2bab2e0dd943) ([To docs](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-plugin?WT.mc_id=AZ-MVP-5003408))
+    
+### migrate
+- [articles/migrate/prepare-for-migration.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-da4acdb2112d4e1e4b99503b8594c4f9f26fbb3e8814be5e4c2993dfc093454a) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/prepare-for-migration?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/troubleshoot-dependencies.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-d2db934e60d2557921f53022ff7a16e8c70c2e7469d5712074491088bc6e39f2) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/troubleshoot-dependencies?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/troubleshoot-discovery.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-1c64dbfd33c977e215cee497b50239d18fec167a7325ad286fea66d4a90c9248) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/troubleshoot-discovery?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/tutorial-app-containerization-aspnet-app-service.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-abcb48bd530fadb686af1b392964126eec1b9782aad89922c6a5495e9d5c4009) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-app-service?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/tutorial-app-containerization-aspnet-kubernetes.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-cd32940e6a110175f72c564658d01c55b124bb49b15237a8ff73011280d9c22c) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-aspnet-kubernetes?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/tutorial-app-containerization-java-app-service.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-35a58bfda2075360bfa1758f629d8137fad4d2a617706d1215a09ffa32488a67) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-app-service?WT.mc_id=AZ-MVP-5003408))
+- [articles/migrate/tutorial-app-containerization-java-kubernetes.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-cfd844b265b1a298e999bab18f6f2763096008bf6cbecb19bcf6baafbd655512) ([To docs](https://docs.microsoft.com/en-us/azure/migrate/tutorial-app-containerization-java-kubernetes?WT.mc_id=AZ-MVP-5003408))
+    
+### security-center
+- [articles/security-center/alerts-reference.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-f55c782b65060e87125767f6ff8ef4ff4257337c9cbb812879317b1b00761518) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference?WT.mc_id=AZ-MVP-5003408))
+- [articles/security-center/custom-dashboards-azure-workbooks.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-4c32f52c17ed892cba78131a7600b3c81be83a709fea16c6809f698819c7a4d0) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/custom-dashboards-azure-workbooks?WT.mc_id=AZ-MVP-5003408))
+- [articles/security-center/release-notes-archive.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-5db5807c05fadbfbb630f4cd144dc2e262fb2be2edaeb1059b3c5d44dc2fb853) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/release-notes-archive?WT.mc_id=AZ-MVP-5003408))
+- [articles/security-center/security-center-permissions.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-d98a6dc8ffff6ca086904c2cfe8b612386f3793b04ecba671e7cb613065c9206) ([To docs](https://docs.microsoft.com/en-us/azure/security-center/security-center-permissions?WT.mc_id=AZ-MVP-5003408))
+    
+### sentinel
+- [articles/sentinel/migration.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-894aeebef42a1f773ce878cf220c115d9c8f6938659a3f573ab8db3032153ca0) ([To docs](https://docs.microsoft.com/en-us/azure/sentinel/migration?WT.mc_id=AZ-MVP-5003408))
+- [articles/sentinel/sap-solution-log-reference.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-798414936d10516f1cf67c396dc7f2c027d34857e1b475067de60a559f18992c) ([To docs](https://docs.microsoft.com/en-us/azure/sentinel/sap-solution-log-reference?WT.mc_id=AZ-MVP-5003408))
+    
+### site-recovery
+- [articles/site-recovery/azure-to-azure-support-matrix.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-c7cf07df115203dfbda80870ba98a7a39980de6fcad6dc52521003703ab8a0b7) ([To docs](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-support-matrix?WT.mc_id=AZ-MVP-5003408))
+    
+### storage
+- [articles/storage/blobs/point-in-time-restore-overview.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-92c08c31d31a1183d60df2a8960545328ccf30d4d5afac08a939d1d5a517d0e2) ([To docs](https://docs.microsoft.com/en-us/azure/storage/blobs/point-in-time-restore-overview?WT.mc_id=AZ-MVP-5003408))
+- [articles/storage/common/storage-account-create.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-222a9ae4946a611aa4512f9c10e1bffe39c8cc135c5d5231fe7bb7660f3ab168) ([To docs](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?WT.mc_id=AZ-MVP-5003408))
+    
+### virtual-machines
+- [articles/virtual-machines/windows/image-builder.md](https://github.com/MicrosoftDocs/azure-docs/compare/d90cb31..6ea4d4d#diff-5f9e081115b79a739e6fadfc6ee3550b231c6e3a8ea56ae57a077068d1e11046) ([To docs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/image-builder?WT.mc_id=AZ-MVP-5003408))
+    
